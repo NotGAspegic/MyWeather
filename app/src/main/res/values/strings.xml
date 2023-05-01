@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="city_name">City Name</string>
+    <string name="nocitywelcome">NoCityWelcome</string>
+    <string name="search">Search</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="cloe_nav">Cloe Navigation Drawer</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="discover_the_weather_in_your_city">Discover the Weather in The World</string>
+    <string name="search_for_cities">Search for Cities</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="fair">Fair</string>
+    <string name="menu_refresh">Refresh</string>
+    <!-- Preference Titles -->
+    <string name="general_header">General</string>
+    <string name="location_header">Location</string>
+    <string name="notifications_header">Notifications</string>
+    <string name="get_starteds">Get started</string>
+    <string name="get_to_know_your_weather_maps_and_radar_precipitation_forecast">Get to know your weather maps and radar precipitation forecast</string>
+</resources>

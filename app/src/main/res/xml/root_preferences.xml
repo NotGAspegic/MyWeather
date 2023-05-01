@@ -1,0 +1,57 @@
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:icon="@drawable/baseline_business_center_24" app:title="@string/general_header">
+
+        <ListPreference
+            app:defaultValue="°C"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="unit_temp"
+            app:title="Unit/Temp"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="Km/h"
+            app:entries="@array/reply_entries1"
+            app:entryValues="@array/reply_values1"
+            app:key="unit_speed"
+            app:title="Unit/Speed"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:icon="@drawable/baseline_location_on_24" app:title="@string/location_header">
+
+        <SwitchPreferenceCompat
+            app:key="current_location"
+            app:title="Use current location"
+            android:defaultValue="true"
+            app:enabled="false"
+            android:summaryOn="Agree"
+            android:summaryOff="Disagree"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory android:icon="@drawable/baseline_notifications_24" app:title="@string/notifications_header">
+
+        <SwitchPreferenceCompat
+            app:key="notfications"
+            app:title="Enable notifications"
+            android:defaultValue="true"
+            android:summaryOn="Agree"
+            android:summaryOff="Disagree"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:icon="@drawable/baseline_search_24" app:title="About">
+        <Preference
+            android:title="About MyWeather"
+            app:summary="Version 1.0.0"
+            />
+        <Preference
+            android:key="contact_pref"
+            android:title="Contact us"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

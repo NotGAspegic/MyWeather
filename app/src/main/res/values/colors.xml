@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="SkyBlue1">#5BD0FF</color>
+    <color name="SkyBlue2">#0097F9</color>
+    <color name="lavander">#8692f7</color>
+    <color name="Sky">#0A1332</color>
+    <color name="Night">#444EAE</color>
+    <color name="Day">#FAC560</color>
+    <color name="DayV2">#7CB3F3</color>
+    <color name="NightV2">#46467A</color>
+    <color name="RecDay">#5089CE</color>
+    <color name="RecNight">#2F3358</color>
+    <color name="RecDay2">#578FD2</color>
+    <color name="RecNight2">#3A3D67</color>
+    <color name="bg_day">#906789</color>
+    <color name="bg_day2">#172C59</color>
+    <color name="bg_night">#4B4374</color>
+    <color name="RecDay2test">#3D70AE</color>
+    <color name="RecNight2test">#2B2E52</color>
+    <color name="bg_gradient">#2B32B2</color>
+</resources>
