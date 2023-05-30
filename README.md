@@ -1,6 +1,6 @@
 # MyWeather app
 
-<p align="center"><img src="assets/Screenshot_1.png" /></p>
+<p align="center"><img src="Assets/Screenshot_1.png" /></p>
 
 **Requirements**
 - Android studio last version
@@ -14,8 +14,8 @@
 **Demo** application is available in [Release]
 
 **Screenshot**
-<p align="center"><img src="assets/Screenshot_2.png" /></p>
-<p align="center"><img src="assets/Screenshot_5.png" /></p>
+<p align="center"><img src="Assets/Screenshot_2.png" /></p>
+<p align="center"><img src="Assets/Screenshot_5.png" /></p>
 
 **Libraries & Dependencies**
 - [Support libraries]: appcompat / recyclerview / constraintlayout
