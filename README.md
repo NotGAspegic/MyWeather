@@ -15,7 +15,7 @@
 
 **Screenshot**
 <p align="center"><img src="Assets/Screenshot_2.png" /></p>
-<p align="center"><img src="Assets/Screenshot_5.png" /></p>
+<img src="Assets/Screenshot_5.png" />
 
 **Libraries & Dependencies**
 - [Support libraries]: appcompat / recyclerview / constraintlayout
