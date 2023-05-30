@@ -19,7 +19,7 @@
 - [RxAndroid] Reactive Extensions for Android
 - [Lottie-Animations]: Render After Effects animations natively on Android
 
-[Release]: https://github.com/bkhezry/weather/releases
+[Release]: https://github.com/NotGAspegic/MyWeather/releases
 
 
 # Licence
