@@ -14,6 +14,7 @@
 **Demo** application is available in [Release]
 
 **Screenshot**
+</br>
 <img src="Assets/Screenshot_2.png" />
 <img src="Assets/Screenshot_5.png" />
 
