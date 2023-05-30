@@ -14,7 +14,7 @@
 **Demo** application is available in [Release]
 
 **Screenshot**
-<p align="center"><img src="Assets/Screenshot_2.png" /></p>
+<img src="Assets/Screenshot_2.png" />
 <img src="Assets/Screenshot_5.png" />
 
 **Libraries & Dependencies**
