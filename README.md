@@ -18,6 +18,12 @@
 <img src="Assets/Screenshot_2.png" />
 <img src="Assets/Screenshot_5.png" />
 
+
+**Screenshot**
+</br>
+<img src="Assets/Realisation1.jpg" />
+<img src="Assets/Realisation2.jpg" />
+
 **Libraries & Dependencies**
 - [Support libraries]: appcompat / recyclerview / constraintlayout
 - [FastAdapter]: The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction
